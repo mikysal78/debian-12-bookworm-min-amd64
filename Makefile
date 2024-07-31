@@ -1,4 +1,4 @@
-Debian 12 Minimal System Global Makefile Install
+#Debian 12 Minimal System Global Makefile Install
 TPMTL_PATH = ./template
 BASEDIR:=$(shell dab basedir)
 
