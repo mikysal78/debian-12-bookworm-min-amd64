@@ -1,5 +1,5 @@
-# Create template CT for proxmox (debian-12-6 minimal)
-Create CT Template for Proxmox: Debian 12.6 minimal amd64
+# Create template CT for proxmox (debian-12-7.0 minimal)
+Create CT Template for Proxmox: Debian 12.7.0 minimal amd64
 
 See: [Debian_Appliance_Builder](https://pve.proxmox.com/wiki/Debian_Appliance_Builder)
 
